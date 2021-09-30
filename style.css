@@ -39,7 +39,7 @@ header h1{
     src: url(/font/rockwell-webfont.woff2);
 }
 
-.image{
+body > header > .image {
     
     background-image: url(img/Header-Restaurant-Gutscheine.jpg);
     background-repeat: no-repeat;
