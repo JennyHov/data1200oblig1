@@ -27,19 +27,19 @@ header h1{
 }
 @font-face {
     font-family:caroline ;
-    src: url(/img/caroline-webfont.woff2);
+    src: url(img/caroline-webfont.woff2);
 
 }
 @font-face {
     font-family: giaza;
-    src: url(/img/giaza-webfont.woff2);
+    src: url(img/giaza-webfont.woff2);
 }
 @font-face {
     font-family: rockwell;
-    src: url(/font/rockwell-webfont.woff2);
+    src: url(font/rockwell-webfont.woff2);
 }
 
-body > header > .image {
+.image {
     
     background-image: url(img/Header-Restaurant-Gutscheine.jpg);
     background-repeat: no-repeat;
